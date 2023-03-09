@@ -1,0 +1,9 @@
+I love cryptography!
+
+first you convert all the letters to the number of the place they land on the alphabet with spaces being 0 and the ! being 28
+
+90121522503182516201571811682528
+
+after that you reverse the string to get the completed cipher.
+
+82528611817510261528130522512109
